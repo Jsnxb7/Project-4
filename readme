@@ -1,0 +1,3 @@
+to run the streamlit app dashboard run this command in the terminal on the file location-
+
+        streamlit run dashboard.py
